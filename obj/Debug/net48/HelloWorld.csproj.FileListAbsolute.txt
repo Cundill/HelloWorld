@@ -1,0 +1,8 @@
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.csprojAssemblyReference.cache
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.AssemblyInfo.cs
+D:\Visual Studio Projects\HelloWorld\bin\Debug\net48\HelloWorld.exe
+D:\Visual Studio Projects\HelloWorld\bin\Debug\net48\HelloWorld.pdb
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.exe
+D:\Visual Studio Projects\HelloWorld\obj\Debug\net48\HelloWorld.pdb
